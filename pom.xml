@@ -1,3 +1,6 @@
+# squ_90fdd38118fc32786c54f64cba6620b2b4a6fc7d
+#  lagvatpjuokelnmb   gmail jenkins
+
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
@@ -64,11 +67,11 @@
   <distributionManagement>
     <repository>
       <id>maven-releases</id>
-      <url>http://35.175.176.69:8081/repository/maven-releases/</url>
+      <url>http://192.168.234.93:8081/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
       <id>maven-snapshots</id>
-      <url>http://35.175.176.69:8081/repository/maven-snapshots/</url>
+      <url>http://192.168.234.93:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
 
